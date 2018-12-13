@@ -1,0 +1,48 @@
+body{
+ 
+
+
+ .navbar{
+     background-color: whitesmoke;
+    .navbar-nav{
+        .nav-item{
+           padding-right: 40px;
+           .nav-link{
+               color: rgb(0, 0, 0);
+               text-align: center;
+               font-family: 'IBM Plex Serif', serif;
+               font-size: 16px;
+               }
+        }
+    }
+  }
+
+  .container-fluid{
+    .video-container{
+        video{
+            width:100%;  
+            position: static;
+        }
+    }
+  }
+
+  main{
+      .container-fluid{
+          
+          .card-body{
+              background-color: white;
+              h5{
+                  text-decoration: none;
+                  color: orangered;
+              }
+              p{
+                  color: black;
+                  font-size: 20px;
+                  font-style: 'IBM Plex Sans Condensed', sans-serif;
+              }
+          }
+      }
+  }
+
+}
+  
